@@ -13,7 +13,7 @@ Each of the participant was asked to install the application on their phones. Th
 </p>
 
 ![alt test](images/protocol_update1.png)
-Fig. 1: The data collection protocol with an overview of the phone positions on a participant.
+<p align = "center> Fig. 1: The data collection protocol with an overview of the phone positions on a participant. </p>
 
 <h1> Source </h1>
 <p> Jessica Permatasari, Dr. Tee Connie, Dr. Ong Thian Song, Multimedia University, Malaysia. <br/> 
