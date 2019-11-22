@@ -13,7 +13,7 @@ Each of the participant was asked to install the application on their phones. Th
 </p>
 
 ![alt test](images/protocol_update1.png)
-<p align = "center> Fig. 1: The data collection protocol with an overview of the phone positions on a participant. </p>
+<p align = "center"> Fig. 1: The data collection protocol with an overview of the phone positions on a participant. </p>
 
 <h1> Source </h1>
 <p> Jessica Permatasari, Dr. Tee Connie, Dr. Ong Thian Song, Multimedia University, Malaysia. <br/> 
@@ -47,4 +47,4 @@ z - axis gyroscope <br/>
 <p> Use of this dataset in publications must be acknowledged by referencing the following publication: </p>
 <p>Permatasari J., Connie T., Song O.T. (2020) The MMUISD Gait Database and Performance Evaluation Compared to Public Inertial Sensor Gait Databases. In: Alfred R., Lim Y., Haviluddin H., On C. (eds) Computational Science and Technology. Lecture Notes in Electrical Engineering, vol 603. Springer, Singapore </p> 
 
-This dataset under copyright of Multimedia University, Malaysia. 
+<p align = "center"> This dataset under copyright of Multimedia University, Malaysia. </p>
