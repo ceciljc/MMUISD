@@ -19,7 +19,7 @@ Each of the participant was asked to install the application on their phones. Th
  This dataset was collected as part of the PhD research under Multimedia University.</p>
 
 <h1> Attribute Information </h1>
-<p> The data are arranged inside the folder, the name of the folder was given according to the walking speed (slow, normal and fast). Each folder contain the data from sensor position: bag, hand and pocket. Each of the folder will have 240 subject's data. The csv files will be names with the userid_walkingspeed_sensor position.csv, for example: 0_fast_R4.csv will refer to the data from user id 0 with fast walking speed and right hand sensor position (see Table below).
+<p> The data are arranged inside the folder, the name of the folder was given according to the walking speed (slow, normal and fast). Each folder contain the data from sensor position: bag, hand and pocket. Each of the folder will have 240 subject's data. The csv files are named with the userid_walkingspeed_sensor position.csv, for example: 0_fast_R4.csv will refer to the data from user id 0 with fast walking speed and right hand sensor position (see Table below).
 
 | Notation      | Description             | 
 | ------------- |:-----------------------:| 
