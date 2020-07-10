@@ -46,6 +46,6 @@ z - axis gyroscope <br/>
 <p> Use of this dataset in publications must be acknowledged by referencing the following publication: </p>
 <p>Permatasari J., Connie T., Song O.T. (2020) The MMUISD Gait Database and Performance Evaluation Compared to Public Inertial Sensor Gait Databases. In: Alfred R., Lim Y., Haviluddin H., On C. (eds) Computational Science and Technology. Lecture Notes in Electrical Engineering, vol 603. Springer, Singapore </p> 
 
-<p> To access the data you may need to contact us thru email jessicajcp24@gmail.com to obtain the password</p> 
+<p> To access the data you may need to contact us thru email jessicajcp24@gmail.com to obtain the password and the requestor must send the release agreement signed by a legal representative of your institution (e.g., your supervisor if you are a student).</p> 
 
 <p align = "center"> This dataset under copyright of Multimedia University, Malaysia. </p>
